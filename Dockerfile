@@ -14,7 +14,6 @@ RUN mkdir /opt/assets
 VOLUME ["/opt/assets"]
 
 ENV epAssetLocation /opt/assets
-
 ENV CLASSPATH $CLASSPATH:/opt/tomcat/common/lib/ojdbc5.jar
 
 CMD /opt/tomcat/start.sh
