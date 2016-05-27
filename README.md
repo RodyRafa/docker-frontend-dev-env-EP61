@@ -1,4 +1,4 @@
-# Frontend Development Environment for EP61
+# Frontend Dev Env for EP61
 
 ## Docker run
     docker run \
